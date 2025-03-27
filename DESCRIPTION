@@ -5,7 +5,9 @@ Authors@R:
     person("Mariela", "Gonzalez", , "margonzal@espol.edu.ec", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 Imports:
-    methods
+    methods,
+    ade4,
+    pracma
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
