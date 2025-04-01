@@ -45,5 +45,6 @@ spe_data
 Measurement of the abundance \if{html}{\out{<cells L-1>}} of 23 phytoplankton species
 from sampling data at four stations located 10 miles from
 the coastal profile of the continental equator.
+Data sorted according to \link{env_data} and \link{etiq_data} rows.
 }
 \keyword{datasets}

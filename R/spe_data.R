@@ -3,6 +3,7 @@
 #' Measurement of the abundance <cells L-1> of 23 phytoplankton species
 #' from sampling data at four stations located 10 miles from
 #' the coastal profile of the continental equator.
+#' Data sorted according to [env_data] and [etiq_data] rows.
 #'
 #' @format ## `spe_data`
 #' A data frame with 44 rows and 23 columns:
