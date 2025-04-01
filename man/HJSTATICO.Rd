@@ -45,6 +45,9 @@ The dimensions of the commitment are determined by the rank of the matrix.
 \references{
 http://hdl.handle.net/10366/149381
 }
+\seealso{
+ade4::statico, MixSTATICO()
+}
 \author{
 Mariela Gonzalez Narvaez, Ph.D., María José Fernández Gomez, Susana Mendes, Purificación Galindo-Villardón, Ph.D., Gema Zambrano Zambrano, Ysaí Ronquillo Mora, George Acosta Chong
 }

@@ -34,6 +34,8 @@
 #'
 #' @references http://hdl.handle.net/10366/149381
 #'
+#' @seealso ade4::statico, MixSTATICO()
+#'
 #' @import graphics
 #' @import ade4
 #' @import pracma
