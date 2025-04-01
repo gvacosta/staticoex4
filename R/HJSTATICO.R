@@ -40,6 +40,14 @@
 #' @import ade4
 #' @import pracma
 #'
+#' @examples
+#' x=env_data;y=spe_data;etiq=etiq_data$space
+#' result=HJSTATICO(x=x,y=y,condition=etiq,bplot=TRUE,preprocessing = "A.Norma",compx=1,compy=2)
+#' result$Compromise
+#' result$HJB
+#' result$HJBK
+#' result$CrossTables;result$X;result$Y
+#'
 #' @export
 HJSTATICO=function(x,y,condition,bplot,preprocessing,compx,compy) {
   if(exists("bplot")==FALSE){
