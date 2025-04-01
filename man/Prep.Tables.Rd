@@ -33,6 +33,10 @@ Table preprocessing function that considers a third way or categorical variable 
 •	“A.Norma” This method operates similarly to dividing each element of the total matrix by the square root of the total sum of squared elements, ensuring that the total variance of each k-matrix is equal to one and that all K matrices participate equally in the analysis.
 It is worth mentioning that X is normalized, and Y is only centered, due to X is taken as variables or measurements with possible different scales and Y as frequency data (species frequencies).
 }
+\examples{
+Prep.Tables(x=env_data, y=spe_data, condition=etiq_data$space, preprocessing = "A.Norma")
+
+}
 \references{
 http://hdl.handle.net/10366/149381
 }

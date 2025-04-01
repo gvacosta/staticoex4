@@ -30,6 +30,9 @@
 #'
 #' @importFrom methods is
 #'
+#' @examples
+#' Prep.Tables(x=env_data, y=spe_data, condition=etiq_data$space, preprocessing = "A.Norma")
+#'
 #' @export
 Prep.Tables=function(x,y,condition,preprocessing) {
   if(exists("preprocessing")==FALSE){
