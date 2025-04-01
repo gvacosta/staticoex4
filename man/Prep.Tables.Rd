@@ -40,6 +40,9 @@ Prep.Tables(x=env_data, y=spe_data, condition=etiq_data$space, preprocessing = "
 \references{
 http://hdl.handle.net/10366/149381
 }
+\seealso{
+\code{\link[=HJSTATICO]{HJSTATICO()}}, ade4::statico, MixSTATICO()
+}
 \author{
 Mariela Gonzalez Narvaez, Ph.D., María José Fernández Gomez, Susana Mendes, Purificación Galindo-Villardón, Ph.D., Gema Zambrano Zambrano, Ysaí Ronquillo Mora, George Acosta Chong
 }

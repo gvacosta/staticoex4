@@ -28,6 +28,8 @@
 #'
 #' @references http://hdl.handle.net/10366/149381
 #'
+#' @seealso [HJSTATICO()], ade4::statico, MixSTATICO()
+#'
 #' @importFrom methods is
 #'
 #' @examples
