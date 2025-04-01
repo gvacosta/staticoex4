@@ -2,6 +2,7 @@
 #'
 #' Environmental data from physical-chemical and biological data sampling at four stations
 #' located 10 miles from the coastal profile of continental Ecuador.
+#' Data sorted according to [etiq_data] and [spe_data] rows.
 #'
 #' @format ## `env_data`
 #' A data frame with 44 rows and 7 columns:

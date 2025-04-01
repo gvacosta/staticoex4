@@ -28,5 +28,6 @@ env_data
 \description{
 Environmental data from physical-chemical and biological data sampling at four stations
 located 10 miles from the coastal profile of continental Ecuador.
+Data sorted according to \link{etiq_data} and \link{spe_data} rows.
 }
 \keyword{datasets}
