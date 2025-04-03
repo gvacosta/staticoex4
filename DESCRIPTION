@@ -1,9 +1,10 @@
 Package: staticoex4
-Title: What the Package Does (One Line, Title Case)
+Title: STATICO and HJ Biplot methods for three-way matrices
 Version: 0.0.0.9000
 Authors@R: 
-    person("Mariela", "Gonzalez", , "margonzal@espol.edu.ec", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person(given = "Mariela", family = "Gonzalez", email = "margonzal@espol.edu.ec",
+    role = c("aut", "cre"), comment = c(ORCID = "0000-0002-8747-5257"))
+Description: This method allows the analysis of the stable part of the co-structure between two three-way matrices X_NPK and Y_NQK, enabling the quantification and graphical representation of the contribution and quality of representation of the variables in the construction of the compromise matrix and the intra-structure.
 Imports:
     methods,
     ade4,
